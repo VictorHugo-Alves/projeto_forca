@@ -21,7 +21,7 @@ Projeto desenvolvido como exercício prático no processo de aprendizado de estr
 ### No Google Colab:
 Você pode abrir diretamente e testar no Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorHugo-Alves/projeto_forca/blob/main/projeto_forca.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/191SMtcYkG82UO87ErZmk-GGQVc06oHH8?authuser=1)
 
 > *Se você estiver usando o formato `.py`, copie o código e cole em uma célula do Colab.*
 
